@@ -7,7 +7,7 @@ From tinkering with tech to unraveling life's code: Building my first Frankenste
 
 Beyond the lab: When not knee-deep in data or wrestling scientific papers (chess battles are more my speed, though my 350 ELO might disagree!), I delve into the intricate narratives and nuanced characters of seinen manga. So, here I am, a curious explorer on a bioinformatics mission. Join me as we unravel life's mysteries, one code sequence at a time! 
 
-> [Or you can look at my CV](../assets/docs/Adnan_Raza_CV.pdf)
+> [Or you can look at my CV](../assets/docs/adnan_raza_cv.pdf)
 
 
 ## Skills: Bridging the Gap Between Code and Lab Coat 
